@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//////
 int main()
 {
     cout << "a) Двузначные числа, сумма квадратов цифр делится на 13:" << endl;
